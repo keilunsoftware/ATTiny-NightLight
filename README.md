@@ -11,7 +11,7 @@ Useful for bikes, backpacks, etc... Could be easily ported to Adafruit Gemma or 
  *  Decide how often the program will check for the lights being turned on. Change the watchdog value according to the legend. 
  *  Assign both a digital and an analog pin for measuring the LDR. These will be LDR_DRIVE_PIN and  LDR_SENSE_PIN respectively. 
  *  Connect the LDR between LDR_SENSE_PIN and ground; connect the pullup resistor between LDR_SENSE_PIN and LDR_DRIVE_PIN.
-                                                             
+'''                                                             
                                                              Power
                                                              Switch
                                   +-----------------+ VCC     _____
@@ -38,4 +38,4 @@ Useful for bikes, backpacks, etc... Could be easily ported to Adafruit Gemma or 
                           |
                          +++
                          GND
-
+'''
