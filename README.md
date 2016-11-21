@@ -23,7 +23,7 @@ Useful for bikes, backpacks, etc... Could be easily ported to Adafruit Gemma or 
      |                            |                 |        +++
      |                            |    ATTINY85     |        | |
     +++                           |                 |        | | PULLUP Resistor
-    LED | |                           |                 |        | |
+    LED 	                      |                 |        | |
     +++                           |                 |        +++
      |                      GND   |                 |         |
      +--------------------+-------+                 +---------+---------+
