@@ -20,7 +20,7 @@ Connect the LDR between LDR_SENSE_PIN and ground; connect the pullup resistor be
      |                            |                 |        +++
      |                            |    ATTINY85     |        | |
     +++                           |                 |        | | PULLUP Resistor
-    LED 	                       |                 |        | |
+    LED 	                      |                 |        | |
     +++                           |                 |        +++
      |                      GND   |                 |         |
      +--------------------+-------+                 +---------+---------+
